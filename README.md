@@ -1,2 +1,2 @@
-# transitionopstoolkit
-Toolkit to support project launch, signal change to service and provide right knowledge for customers.
+# Transition to Operations Toolkit
+Toolkit to support project launches, signal change to services and provide the right knowledge for customers.
