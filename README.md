@@ -19,6 +19,7 @@ A collection of flexible templates and documented processes to be used within th
 * Review process for contributions.
 ## ITIL Knowledge Management
 **Objective:** 
+
 ITIL Knowledge Management aims to gather, analyze, store and share knowledge and information within an organization. The primary purpose of this ITIL process is to improve efficiency by reducing the need to rediscover knowledge;
 
 **Part of:** Service Transition; and,
