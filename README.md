@@ -1,12 +1,11 @@
 # Transition to Operations and Service Support Toolkit
 ## What is the Transition to Operations and Service Support Toolkit? 
-A collection of flexible templates and processes to support Information Technology project launches, signal changes to services and share models for providing customers knowledge that serves them best.
+A collection of flexible templates and processes to support Information Technology project launches, signal changes to services and share models for providing customers knowledge that serves them best. [ITIL Knowledge Management](## ITIL Knowledge Management)
 ## Key Resources
 * Documentation;
 * Downloads;
 * Examples;
 * Version history and roadmap;
-* [ITIL Knowledge Management] (#);
 * Terms and Conditions :link: [MIT License](/LICENSE.md);
 * Source code repository and contributing guidelines; and,
 * Communications material.
@@ -26,7 +25,7 @@ A collection of flexible templates and processes to support Information Technolo
 **Process Owner:** Knowledge Manager
 Source: ITIL® Process Map & ITIL® Wiki. Content used under  [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Germany License](https://creativecommons.org/licenses/by-nc-sa/3.0/de/deed.en).
 
-##Digital Service References
+## Digital Service References
 * [Austrailian Government Digital Transformation Agency](https://www.dta.gov.au)
 * [Government of Canada Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html)
 * [Gov.UK Service Manual](https://www.gov.uk/service-manual/service-standard)
