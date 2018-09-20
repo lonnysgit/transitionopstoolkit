@@ -6,7 +6,7 @@ A collection of flexible templates and processes to support Information Technolo
 * Downloads;
 * Examples;
 * Version history and roadmap;
-* MIT License (LICENSE.md);
+* [MIT License] (/LICENSE.md);
 * Source code repository and contributing guidelines; and,
 * Communications material.
 ## Collaborative approach
