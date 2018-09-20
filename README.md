@@ -10,7 +10,7 @@ A collection of flexible templates and documented processes to be used within th
 * Contributing guidelines; and,
 * Communications material.
 ## Collaborative approach
-* Project managed openly on GitHub PROJECTS;
+* Project managed openly on GitHub;
 * Discussion through the issues tracker;
 * External contributions welcome;
 * Pull requests;
