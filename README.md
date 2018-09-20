@@ -7,10 +7,10 @@ A collection of flexible templates and documented processes to be used within th
 * Examples;
 * Version history and roadmap;
 * Terms and Conditions :link: [MIT License](/LICENSE.md);
-* Source code repository and contributing guidelines; and,
+* Contributing guidelines; and,
 * Communications material.
 ## Collaborative approach
-* [Project managed openly on GitHub](PROJECTS);
+* Project managed openly on GitHub PROJECTS;
 * Discussion through the issues tracker;
 * External contributions welcome;
 * Pull requests;
