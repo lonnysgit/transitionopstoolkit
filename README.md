@@ -31,5 +31,5 @@ Source: ITIL® Process Map & ITIL® Wiki. Content used under  [Creative Commons 
 * [Austrailian Government Digital Transformation Agency](https://www.dta.gov.au)
 * [Government of Canada Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html)
 * [Gov.UK Service Manual](https://www.gov.uk/service-manual/service-standard)
-* [Ontario](https://www.ontario.ca/page/ontario-digital-service-key-priorities)
+* [Ontario Government](https://www.ontario.ca/page/ontario-digital-service-key-priorities)
 * [US Digital Services Playbook](https://playbook.cio.gov)
