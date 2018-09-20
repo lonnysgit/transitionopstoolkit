@@ -1,6 +1,6 @@
 # Transition to Operations and Service Support Toolkit
 ## What is the Transition to Operations and Service Support Toolkit? 
-A collection of flexible templates and documented processes to be used within the [ITIL® Knowledge Management](#itil-knowledge-management) framework to support project launches, signal changes to services and share models for providing customers knowledge that serves them best.
+A collection of flexible templates and documented processes to be used within the [ITIL® Knowledge Management](#itil-knowledge-management) framework to support project launches, signal changes to services and share models for providing customers knowledge that serves them best. Visit Projects to view our progress on our kanban.
 ## Key Resources
 * Documentation;
 * Downloads;
