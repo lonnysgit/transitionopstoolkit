@@ -6,7 +6,7 @@ A collection of flexible templates and processes to support Information Technolo
 * Downloads;
 * Examples;
 * Version history and roadmap;
-* Terms and conditions (MIT license);
+* Creative Commons Attribution Share Alike 4.0 (cc-by-sa-4.0);
 * Source code repository and contributing guidelines; and,
 * Communications material.
 ## Collaborative approach
