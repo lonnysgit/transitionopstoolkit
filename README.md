@@ -1,6 +1,7 @@
 # Transition to Operations and Service Support Toolkit
 ## What is the Transition to Operations Toolkit? 
 A collection of flexible templates and processes to support Information Technology project launches, signal changes to services and share models for providing customers knowledge that serves them best.
+
 ## Key Resources
 * Documentation;
 * Downloads;
