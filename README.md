@@ -7,6 +7,7 @@ A collection of flexible templates and processes to support Information Technolo
 * Downloads;
 * Examples;
 * Version history and roadmap;
+* [ITIL Knowledge Management] (#);
 * Terms and Conditions :link: [MIT License](/LICENSE.md);
 * Source code repository and contributing guidelines; and,
 * Communications material.
