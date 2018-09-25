@@ -33,3 +33,6 @@ Source: ITIL® Process Map & ITIL® Wiki. Content used under  [Creative Commons 
 * [Gov.UK Service Manual](https://www.gov.uk/service-manual/service-standard)
 * [Ontario Government](https://www.ontario.ca/page/ontario-digital-service-key-priorities)
 * [US Digital Services Playbook](https://playbook.cio.gov)
+
+## Generating EPUB of Toolkit
+* [GitBook](https://github.com/GitbookIO/gitbook/blob/master/docs/ebook.md)
